@@ -1,0 +1,207 @@
+img {
+    width: 100px;
+    height: 66px;
+}
+
+table {
+    border-color: black;
+    border-style: dotted;
+}
+
+header {
+    width: 900px;
+    min-height: 150px;
+    background-color: #99CCFF;
+}
+
+footer {
+    width: 900px;
+    min-height: 150px;
+    background-color: #6699FF;
+}
+
+.inhoud {
+    width: 900px;
+    min-height: 150px;
+    background-color: #BBB;
+}
+
+#id01 {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+#id02 {
+    background-color: #FFCCFF;
+    color: #003300;
+}
+
+#id03 {
+    background-color: #FF99FF;
+    color: #006600;
+}
+
+#id04 {
+    background-color: #FF66FF;
+    color: #009900;
+}
+
+#id05 {
+    background-color: #FF33FF;
+    color: #00CC00;
+}
+
+#id06 {
+    background-color: #FF00FF;
+    color: #00FF00;
+}
+
+#id07 {
+    background-color: #FFFFCC;
+    color: #330000;
+}
+
+#id08 {
+    background-color: #FFCCCC;
+    color: #333300;
+}
+
+#id09 {
+    background-color: #FF99CC;
+    color: #336600;
+}
+
+#id10 {
+    background-color: #FF66CC;
+    color: #339900;
+}
+
+#id11 {
+    background-color: #FF33CC;
+    color: #33CC00;
+}
+
+#id12 {
+    background-color: #FF00CC;
+    color: #33FF00;
+}
+
+#id13 {
+    background-color: #FFFF99;
+    color: #660000;
+}
+
+#id14 {
+    background-color: #FFCC99;
+    color: #663300;
+}
+
+#id15 {
+    background-color: #FF9999;
+    color: #666600;
+}
+
+#id16 {
+    background-color: #FF6699;
+    color: #669900;
+}
+
+#id17 {
+    background-color: #FF3399;
+    color: #66CC00;
+}
+
+#id18 {
+    background-color: #FF0099;
+    color: #66FF00;
+}
+
+#id19 {
+    background-color: #FFFF66;
+    color: #990000;
+}
+
+#id20 {
+    background-color: #FFCC66;
+    color: #993300;
+}
+
+#id21 {
+    background-color: #FF9966;
+    color: #996600;
+}
+
+#id22 {
+    background-color: #FF6666;
+    color: #999900;
+}
+
+#id23 {
+    background-color: #FF3366;
+    color: #99CC00;
+}
+
+#id24 {
+    background-color: #FF0066;
+    color: #99FF00;
+}
+
+#id25 {
+    background-color: #FFFF33;
+    color: #CC0000;
+}
+
+#id26 {
+    background-color: #FFCC33;
+    color: #CC3300;
+}
+
+#id27 {
+    background-color: #FF9933;
+    color: #CC6600;
+}
+
+#id28 {
+    background-color: #FF6633;
+    color: #CC9900;
+}
+
+#id29 {
+    background-color: #FF3333;
+    color: #CCCC00;
+}
+
+#id30 {
+    background-color: #FF0033;
+    color: #CCFF00;
+}
+
+#id31 {
+    background-color: #FFFF00;
+    color: #FF0000;
+}
+
+#id32 {
+    background-color: #FFCC00;
+    color: #FF3300;
+}
+
+#id33 {
+    background-color: #FF9900;
+    color: #FF6600;
+}
+
+#id34 {
+    background-color: #FF6600;
+    color: #FF9900;
+}
+
+#id35 {
+    background-color: #FF3300;
+    color: #FFCC00;
+}
+
+#id36 {
+    background-color: #FF0000;
+    color: #FFFF00;
+}
